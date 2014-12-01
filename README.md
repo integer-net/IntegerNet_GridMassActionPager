@@ -1,5 +1,5 @@
-RemoveCustomerAccountLinks
-==========================
+IntegerNet_GridMassActionPager
+==============================
 
 Grid Mass Action Pager
 
