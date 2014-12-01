@@ -1,0 +1,32 @@
+{
+    "name": "integer-net/IntegerNet_GridMassActionPager",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "https://github.com/integer-net/IntegerNet_GridMassActionPager",
+    "description": "Grid Mass Action Pager",
+    "keywords": ["magento", "adminhtml", "widget"],
+    "authors": [
+        {
+            "name": "integer_net GmbH",
+            "email": "info@integer-net.de",
+            "homepage": "http://www.integer-net.de/",
+            "role": "Company"
+        },
+        {
+            "name": "Viktor Franz",
+            "email": "vf@integer-net.de",
+            "homepage": "http://www.integer-net.de/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "map": [
+            ["src/app/code/community/IntegerNet/GridMassActionPager", "app/code/community/IntegerNet/GridMassActionPager"],
+            ["src/app/etc/modules/IntegerNet_GridMassActionPager.xml", "app/etc/modules/IntegerNet_GridMassActionPager.xml"],
+            ["src/js/integernet_gridmassactionpager", "js/integernet_gridmassactionpager"]
+        ]
+    }
+}
