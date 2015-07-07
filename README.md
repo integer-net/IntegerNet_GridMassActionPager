@@ -3,6 +3,8 @@ IntegerNet_GridMassActionPager
 
 Grid Mass Action Pager
 
+http://www.webguys.de/magento/tuerchen-10-gridmassactionpager-oder-macht-der-eigentlich-noch/
+
 Facts
 -----
 - version: 1.0.0
